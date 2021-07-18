@@ -8,3 +8,5 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=OsamaRaed)
 
 <br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaRaed&layout=compact&theme=radical)<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaRaed&theme=dark" width="48%" >
