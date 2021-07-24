@@ -16,6 +16,7 @@
 ![NPM](https://img.shields.io/badge/-npm-000?&logo=npm)
 ![NET]( https://img.shields.io/badge/-.NET-000?&logo=.NET)
 ![PHP]( https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![cplusplus]( https://img.shields.io/badge/-cplusplus-000?&logo=cplusplus)
 ![Csharp](  https://img.shields.io/badge/-csharp-000?&logo=csharp)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
@@ -40,7 +41,7 @@
 ### I’m currently learning: 
 ![Nodejs](https://img.shields.io/badge/-NodeJs-000?&logo=Node.js) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 
 
