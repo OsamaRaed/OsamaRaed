@@ -33,7 +33,7 @@
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000?&logo=PhpStorm)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Apache NetBeans IDE](https://img.shields.io/badge/-Apache%NetBeans%IDE-000?&logo=Apache%NetBeans%IDE)
+![Apache NetBeans IDE](https://img.shields.io/badge/-apachenetbeanside-000?&logo=apachenetbeanside)
 
 ### I’m currently learning: 
 ![Nodejs](https://img.shields.io/badge/-NodeJs-000?&logo=Node.js) 
