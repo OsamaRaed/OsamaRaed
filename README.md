@@ -44,7 +44,7 @@
     </a>
   </div>
 </p>
-
+<p align=center></p>
 ## Tools
 ![VScode](https://img.shields.io/badge/-VSCode-000?&logo=VisualStudioCode&logoColor=007ACC)
 ![Miro](https://img.shields.io/badge/-Miro-000?&logo=Miro)
