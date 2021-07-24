@@ -7,9 +7,7 @@
 </p>  
 <h2> Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
  <p>Convert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and otherConvert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and otherConvert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and otherConvert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and other.</p>
- 
- 
- 
+ </br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=OsamaRaed)
 
 ## Sklis
@@ -26,6 +24,8 @@
 ![java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=4479A1)
 ![Json](https://img.shields.io/badge/-Json-000?&logo=Json)
 ![microsoftsqlserver](https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?&logo=microsoftsqlserver)
+![microsoftsqlserver](https://img.shields.io/badge/-AWS Amplify-000?&logo=AWS Amplify)
+	
 
 ## 🌱 I’m currently learning: 
 ![Nodejs](https://img.shields.io/badge/-NodeJs-000?&logo=Node.js) 
@@ -37,6 +37,7 @@
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000?&logo=PhpStorm)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Apache NetBeans IDE](https://img.shields.io/badge/-Apache NetBeans IDE-000?&logo=Apache NetBeans IDE)
 
 
 <br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaRaed&layout=compact&theme=radical)<br/>
