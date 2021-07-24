@@ -7,6 +7,12 @@
 </p>  
 <h2> Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
  <p>Convert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and otherConvert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and otherConvert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and otherConvert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and other.</p>
+ 
+ ### Languages
+ * Arabic: Native.
+ * Englsh: Fluent.
+ * Germany: Basic.
+ 
 </br>
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=highcontrast&username=OsamaRaed)
