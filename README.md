@@ -34,18 +34,17 @@
 ![microsoftsqlserver](https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?&logo=microsoftsqlserver)
 ![microsoftsqlserver](https://img.shields.io/badge/-awsamplify-000?&logo=awsamplify)
 
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaRaed&layout=compact&theme=highcontrast" alt="M7Mansour" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaRaed&theme=highcontrast" />
-    </a>
-  </div>
-</p>
-<p align=center></p>
-## Tools
+
+<div align=center>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaRaed&layout=compact&theme=highcontrast" alt="M7Mansour" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img align="right" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaRaed&theme=highcontrast" />
+  </a>
+</div>
+
+### Tools
 ![VScode](https://img.shields.io/badge/-VSCode-000?&logo=VisualStudioCode&logoColor=007ACC)
 ![Miro](https://img.shields.io/badge/-Miro-000?&logo=Miro)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000?&logo=PhpStorm)
@@ -59,8 +58,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 
-
-<img src="https://activity-graph.herokuapp.com/graph?username=OsamaRaed&theme=highcontrast&bg_color=000&hide_border=true" width="48%" >
+![Anurag's github stats](https://activity-graph.herokuapp.com/graph?username=OsamaRaed&theme=highcontrast&bg_color=000&hide_border=true)
 
 <h4 align="center">
   <a href="https://github.com/OsamaRaed?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
