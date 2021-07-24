@@ -4,7 +4,8 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/OsamaRaed/count.svg" />
-</p>      
+</p>  
+
 ### Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
  <!--  add text here  -->
 
