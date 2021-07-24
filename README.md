@@ -10,18 +10,20 @@
 
 ### Overview.
 <p>Convert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and otherConvert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and otherConvert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and otherConvert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and other.</p>
- <h5 align="center">
-    <code>
-      <a href="www.linkedin.com/in/osama2rashid0" title="LinkedIn Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/linkedin.svg"> LinkedIn</a></code>
-    <code><a href="https://leetcode.com/orashid303/" title="LeetCode Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/leetcode.svg"> LeetCode</a></code>
-    <code><a href="https://twitter.com/OsamaRR_" title="Twitter Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/twitter.svg"> Twitter</a></code>
-      <code><a href="https://www.hackerrank.com/orashid303?hr_r=1" title="Hacker Rank" target="blank"><img width="22" src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png"> Hacker Rank</a></code>
-</h5>
+
 ### Languages
  * Arabic: Native.
  * Englsh: Fluent.
  * Germany: Basic.
  
+ </br>
+<h5 align="center">
+  <code>
+    <a href="www.linkedin.com/in/osama2rashid0" title="LinkedIn Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://leetcode.com/orashid303/" title="LeetCode Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/leetcode.svg"> LeetCode</a></code>
+  <code><a href="https://twitter.com/OsamaRR_" title="Twitter Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/twitter.svg"> Twitter</a></code>
+  <code><a href="https://www.hackerrank.com/orashid303?hr_r=1" title="Hacker Rank" target="blank"><img width="22" src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png"> Hacker Rank</a></code>
+</h5>
 </br>
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=highcontrast&username=OsamaRaed)
