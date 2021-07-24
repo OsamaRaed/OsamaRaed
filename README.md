@@ -25,7 +25,7 @@
 ![java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=4479A1)
 ![Json](https://img.shields.io/badge/-Json-000?&logo=Json)
 ![microsoftsqlserver](https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?&logo=microsoftsqlserver)
-![microsoftsqlserver](https://img.shields.io/badge/-AWS%Amplify-000?&logo=awsamplify)
+![microsoftsqlserver](https://img.shields.io/badge/-awsamplify-000?&logo=awsamplify)
 
 ## Tools
 ![VScode](https://img.shields.io/badge/-VSCode-000?&logo=VisualStudioCode&logoColor=007ACC)
@@ -33,7 +33,7 @@
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000?&logo=PhpStorm)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Apache NetBeans IDE](https://img.shields.io/badge/-Netbeans%IDE-000?&logo=apachenetbeanside)
+![Apache NetBeans IDE](https://img.shields.io/badge/-apachenetbeanside-000?&logo=apachenetbeanside)
 
 ### I’m currently learning: 
 ![Nodejs](https://img.shields.io/badge/-NodeJs-000?&logo=Node.js) 
