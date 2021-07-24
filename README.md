@@ -8,10 +8,10 @@
 <h2> Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 </br>
 
-### Overview. 
+<h3> Overview. </h3>
 <p>Convert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and otherConvert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and otherConvert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and otherConvert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and other.</p>
  
- ### Languages
+<h3> Languages </h3>
  * Arabic: Native.
  * Englsh: Fluent.
  * Germany: Basic.
@@ -20,7 +20,7 @@
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=highcontrast&username=OsamaRaed)
 
-### Programing Languages 
+<h3> Programing Languages </h3>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![NPM](https://img.shields.io/badge/-npm-000?&logo=npm)
 ![NET]( https://img.shields.io/badge/-.NET-000?&logo=.NET)
@@ -36,15 +36,6 @@
 ![microsoftsqlserver](https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?&logo=microsoftsqlserver)
 ![microsoftsqlserver](https://img.shields.io/badge/-awsamplify-000?&logo=awsamplify)
 
-
-<!-- <div align=center>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaRaed&layout=compact&theme=highcontrast" alt="M7Mansour" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="right" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaRaed&theme=highcontrast" />
-  </a>
-</div> -->
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -59,7 +50,7 @@
 
 
 
-### Tools
+<h3> Tools </h3>
 ![VScode](https://img.shields.io/badge/-VSCode-000?&logo=VisualStudioCode&logoColor=007ACC)
 ![Miro](https://img.shields.io/badge/-Miro-000?&logo=Miro)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000?&logo=PhpStorm)
@@ -67,7 +58,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Apache NetBeans IDE](https://img.shields.io/badge/-apachenetbeanside-000?&logo=apachenetbeanside)
 
-### I’m currently learning: 
+<h3> I’m currently learning: </h3>
 ![Nodejs](https://img.shields.io/badge/-NodeJs-000?&logo=Node.js) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
