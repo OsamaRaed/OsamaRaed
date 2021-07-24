@@ -69,7 +69,7 @@
 ### I’m currently learning:
 ![Nodejs](https://img.shields.io/badge/-NodeJs-000?&logo=Node.js) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Micro Service](Microservices Architicture )
 
 
 ![Anurag's github stats](https://activity-graph.herokuapp.com/graph?username=OsamaRaed&theme=highcontrast&bg_color=000&hide_border=true)
