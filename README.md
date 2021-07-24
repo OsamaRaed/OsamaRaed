@@ -9,14 +9,13 @@
  <p>Convert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and otherConvert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and otherConvert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and otherConvert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and other.</p>
 </br>
  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=OsamaRaed)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=highcontrast&username=OsamaRaed)
 
 ### Programing Languages 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![NPM](https://img.shields.io/badge/-npm-000?&logo=npm)
 ![NET]( https://img.shields.io/badge/-.NET-000?&logo=.NET)
 ![PHP]( https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![cplusplus]( https://img.shields.io/badge/-cplusplus-000?&logo=cplusplus)
 ![Csharp](  https://img.shields.io/badge/-csharp-000?&logo=csharp)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
@@ -28,7 +27,7 @@
 ![microsoftsqlserver](https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?&logo=microsoftsqlserver)
 ![microsoftsqlserver](https://img.shields.io/badge/-awsamplify-000?&logo=awsamplify)
 
-<br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaRaed&layout=compact&theme=radical)<br/>
+<br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaRaed&layout=compact&theme=highcontrast)<br/>
 
 ## Tools
 ![VScode](https://img.shields.io/badge/-VSCode-000?&logo=VisualStudioCode&logoColor=007ACC)
@@ -45,4 +44,9 @@
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaRaed&theme=dark" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaRaed&theme=highcontrast" width="48%" >
+
+
+<h4 align="center">
+  <a href="https://github.com/OsamaRaed?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
