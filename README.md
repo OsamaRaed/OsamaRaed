@@ -36,18 +36,18 @@
 
 <br/><br/>
 
-
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaRaed&layout=compact&theme=highcontrast" alt="M7Mansour" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://activity-graph.herokuapp.com/graph?username=OsamaRaed&theme=highcontrast&bg_color=000&hide_border=true" />
+      <img align="right" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaRaed&theme=highcontrast" />
     </a>
   </div>
 </p>
 
+<br/><br/>
 ## Tools
 ![VScode](https://img.shields.io/badge/-VSCode-000?&logo=VisualStudioCode&logoColor=007ACC)
 ![Miro](https://img.shields.io/badge/-Miro-000?&logo=Miro)
@@ -63,7 +63,7 @@
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaRaed&theme=highcontrast" width="48%" >
+<img src="https://activity-graph.herokuapp.com/graph?username=OsamaRaed&theme=highcontrast&bg_color=000&hide_border=true" width="48%" >
 
 <h4 align="center">
   <a href="https://github.com/OsamaRaed?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
