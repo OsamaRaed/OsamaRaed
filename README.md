@@ -20,7 +20,7 @@
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=highcontrast&username=OsamaRaed)
 
-<h3> Programing Languages </h3>
+### Programing Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![NPM](https://img.shields.io/badge/-npm-000?&logo=npm)
 ![NET]( https://img.shields.io/badge/-.NET-000?&logo=.NET)
