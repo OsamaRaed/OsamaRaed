@@ -36,11 +36,16 @@
 
 <br/><br/>
 
+
 <p align=center>
   <div align=center>
-    ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaRaed&layout=compact&theme=highcontrast)
-    ![Anurag's github stats](https://activity-graph.herokuapp.com/graph?username=OsamaRaed&theme=highcontrast&bg_color=000&hide_border=true)
-    </div>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaRaed&layout=compact&theme=highcontrast" alt="M7Mansour" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://activity-graph.herokuapp.com/graph?username=OsamaRaed&theme=highcontrast&bg_color=000&hide_border=true" />
+    </a>
+  </div>
 </p>
 
 ## Tools
