@@ -46,6 +46,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaRaed&theme=highcontrast" width="48%" >
 
+<br/>![Anurag's github stats](https://activity-graph.herokuapp.com/graph?username=OsamaRaed&theme=highcontrast&bg_color=000&hide_border=true)<br/>
+
 
 <h4 align="center">
   <a href="https://github.com/OsamaRaed?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
