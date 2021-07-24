@@ -27,6 +27,8 @@
 ![microsoftsqlserver](https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?&logo=microsoftsqlserver)
 ![microsoftsqlserver](https://img.shields.io/badge/-awsamplify-000?&logo=awsamplify)
 
+<br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaRaed&layout=compact&theme=radical)<br/>
+
 ## Tools
 ![VScode](https://img.shields.io/badge/-VSCode-000?&logo=VisualStudioCode&logoColor=007ACC)
 ![Miro](https://img.shields.io/badge/-Miro-000?&logo=Miro)
@@ -41,7 +43,5 @@
 
 
 
-
-<br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaRaed&layout=compact&theme=radical)<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaRaed&theme=dark" width="48%" >
