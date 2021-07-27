@@ -14,7 +14,6 @@
 ### Languages
  * Arabic: Native.
  * Englsh: Fluent.
- * Germany: Basic.
  
  </br>
 <h5 align="center">
