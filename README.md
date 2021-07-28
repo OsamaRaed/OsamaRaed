@@ -9,7 +9,8 @@
 </br>
 
 ### Overview.
-<p>Convert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and otherConvert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and otherConvert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and otherConvert your texts to cool and weird styles, with different alphabets, quickly and completely free. Compatible with Facebook, Twitter, Instagram and other.</p>
+<p>Hi! I'm Web application developer, excellent analytical and design capabilities with a keen attention to detail and overall quality of end result, my goals are to continue to provide a high quality development service and to participate in successful projects. I'm specializing in the development of Back-End web applications and working on many applications, from simple api applications to microservises systems.
+</p>
 
 ### Languages
  * Arabic: Native.
