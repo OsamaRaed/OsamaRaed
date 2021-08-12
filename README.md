@@ -67,8 +67,8 @@
 ![Apache NetBeans IDE](https://img.shields.io/badge/-apachenetbeanside-000?&logo=apachenetbeanside)
 
 ### I’m currently learning:
-![Nodejs](https://img.shields.io/badge/-NodeJs-000?&logo=Node.js) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+<!-- ![Nodejs](https://img.shields.io/badge/-NodeJs-000?&logo=Node.js)  -->
+<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) -->
 ![Micro Service](https://img.shields.io/badge/-Microservices%20Architecture-000)
 
 
