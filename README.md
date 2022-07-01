@@ -2,12 +2,7 @@
 
 <p  align="center" ><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/63412382/126063427-00cb2639-cd03-447c-8d28-cec53c97fc89.gif"><img src="https://user-images.githubusercontent.com/63412382/126063427-00cb2639-cd03-447c-8d28-cec53c97fc89.gif" alt="Header" title="Header" style="max-width:150%;"></a></p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/OsamaRaed/count.svg" />
-</p>  
-<h2> Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-</br>
+
 
 ### Overview.
 <p>Hi! I'm Web application developer, excellent analytical and design capabilities with a keen attention to detail and overall quality of end result, my goals are to continue to provide a high quality development service and to participate in successful projects. I'm specializing in the development of Back-End web applications and working on many applications, from simple api applications to microservises systems.
