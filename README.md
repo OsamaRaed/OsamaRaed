@@ -17,6 +17,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=highcontrast&username=OsamaRaed)
 
 ### Programing Languages
+![java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=4479A1)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![NPM](https://img.shields.io/badge/-npm-000?&logo=npm)
 ![NET]( https://img.shields.io/badge/-.NET-000?&logo=.NET)
@@ -25,7 +26,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle&logoColor=F80000)
-![java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=4479A1)
 ![Json](https://img.shields.io/badge/-Json-000?&logo=Json)
 ![microsoftsqlserver](https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?&logo=microsoftsqlserver)
 ![microsoftsqlserver](https://img.shields.io/badge/-awsamplify-000?&logo=awsamplify)
