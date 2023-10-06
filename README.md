@@ -12,11 +12,6 @@
  * Arabic: Native.
  * Englsh: Fluent.
  
- </br>
-<h5 align="center">
-  <code>
-    <a href="www.linkedin.com/in/osama2rashid0" title="LinkedIn Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/linkedin.svg"> LinkedIn</a></code>
-</h5>
 </br>
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=highcontrast&username=OsamaRaed)
